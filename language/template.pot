@@ -1,0 +1,173 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-23 12:00+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Property label for CIDOC of a CIDOC:P111_added
+msgid "added"
+msgstr ""
+
+#. Property label for VIS of a VIS:attaching_with
+msgid "attaching_with"
+msgstr ""
+
+#. Property label for CIDOC of a CIDOC:P82a_begin_of_the_begin
+msgid "begin of the begin"
+msgstr ""
+
+#. Property label for VIS of a VIS:brings_into_existence
+msgid "brings_into_existence"
+msgstr ""
+
+#. Property label for CIDOC of a CIDOC:P92_brought_into_existence
+msgid "brought into existence"
+msgstr ""
+
+#. Property label for VIS of a VIS:carries_image
+msgid "carries_image"
+msgstr ""
+
+#. Property label for VIS of a VIS:carries_writing
+msgid "carries_writing"
+msgstr ""
+
+#. Property label for CIDOC of a CIDOC:P41_classified
+msgid "classified"
+msgstr ""
+
+#. Property label for VIS of a VIS:describes
+msgid "describes"
+msgstr ""
+
+#. Property label for VIS of a VIS:destroying
+msgid "destroying"
+msgstr ""
+
+#. Property label for CIDOC of a CIDOC:P70_documents
+#. Property label for RIC of a RIC:documents
+msgid "documents"
+msgstr ""
+
+#. Property label for CIDOC of a CIDOC:P11_had_participant
+msgid "had participant"
+msgstr ""
+
+#. Property label for CIDOC of a CIDOC:P94_has_created
+msgid "has created"
+msgstr ""
+
+#. Property label for CIDOC of a CIDOC:P55_has_current_location
+msgid "has current location"
+msgstr ""
+
+#. Property label for CIDOC of a CIDOC:P49_has_former_or_current_keeper
+msgid "has former or current keeper"
+msgstr ""
+
+#. Property label for CIDOC of a CIDOC:P72_has_language
+msgid "has language"
+msgstr ""
+
+#. Property label for CIDOC of a CIDOC:P31_has_modified
+msgid "has modified"
+msgstr ""
+
+#. Property label for CIDOC of a CIDOC:P3_has_note
+msgid "has note"
+msgstr ""
+
+#. Property label for CIDOC of a CIDOC:P48_has_preferred_identifier
+msgid "has preferred identifier"
+msgstr ""
+
+#. Property label for CIDOC of a CIDOC:P108_has_produced
+msgid "has produced"
+msgstr ""
+
+#. Property label for CIDOC of a CIDOC:P4_has_time-span
+msgid "has time-span"
+msgstr ""
+
+#. Property label for CIDOC of a CIDOC:P2_has_type
+msgid "has type"
+msgstr ""
+
+#. Property label for VIS of a VIS:has_competence
+msgid "has_competence"
+msgstr ""
+
+#. Property label for VIS of a VIS:has_dimension
+msgid "has_dimension"
+msgstr ""
+
+#. Property label for VIS of a VIS:has_physical_feature
+msgid "has_physical_feature"
+msgstr ""
+
+#. Property label for VIS of a VIS:has_shape
+msgid "has_shape"
+msgstr ""
+
+#. Property label for CIDOC of a CIDOC:P148i_is_component_of
+msgid "is component of"
+msgstr ""
+
+#. Property label for CIDOC of a CIDOC:P46_is_composed_of
+#. Property label for CIDOC of a CIDOC:P106_is_composed_of
+msgid "is composed of"
+msgstr ""
+
+#. Property label for CIDOC of a CIDOC:P1_is_identified_by
+msgid "is identified by"
+msgstr ""
+
+#. Property label for VIS of a VIS:consists_of
+msgid "is made from"
+msgstr ""
+
+#. Property label for VIS of a VIS:is_described_by
+msgid "is_described_by"
+msgstr ""
+
+#. Property label for VIS of a VIS:materializes
+msgid "materializes"
+msgstr ""
+
+#. Property label for CIDOC of a CIDOC:P67_refers_to
+msgid "refers to"
+msgstr ""
+
+#. Property label for CIDOC of a CIDOC:P138_represents
+#. Property label for VIS of a VIS:represents
+msgid "represents"
+msgstr ""
+
+#. Property label for CIDOC of a CIDOC:P8_took_place_on_or_within
+msgid "took place on or within"
+msgstr ""
+
+#. Property label for VIS of a VIS:use_as_matrix
+msgid "use_as_matrix"
+msgstr ""
+
+#. Property label for CIDOC of a CIDOC:P33_used_specific_technique
+msgid "used specific technique"
+msgstr ""
+
+#. Property label for CIDOC of a CIDOC:E1_CRM_Entity
+msgid "CRM Entity"
+msgstr ""

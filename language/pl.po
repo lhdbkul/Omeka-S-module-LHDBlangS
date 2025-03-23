@@ -1,0 +1,176 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# Translators:
+# Łukasz Poznański <lpoznanski@lhdb.kul.pl>, 2025
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: <lhdb@kul.pl>\n"
+"POT-Creation-Date: 2025-03-23 12:00+0100\n"
+"PO-Revision-Date: 2025-03-23 12:00+0100\n"
+"Last-Translator: Łukasz Poznański <lpoznanski@lhdb.kul.pl>, 2025\n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Property label for CIDOC of a CIDOC:P111_added
+msgid "added"
+msgstr "Autor opisu"
+
+#. Property label for VIS of a VIS:attaching_with
+msgid "attaching_with"
+msgstr "Rodzaj wiązadła"
+
+#. Property label for CIDOC of a CIDOC:P82a_begin_of_the_begin
+msgid "begin of the begin"
+msgstr "Chronologia wzorca pieczęci stulecia"
+
+#. Property label for VIS of a VIS:brings_into_existence
+msgid "brings_into_existence"
+msgstr "Nazwa dysponenta"
+
+#. Property label for CIDOC of a CIDOC:P92_brought_into_existence
+msgid "brought into existence"
+msgstr "Wydawca"
+
+#. Property label for VIS of a VIS:carries_image
+msgid "carries_image"
+msgstr "Wyobrażenie napieczętne"
+
+#. Property label for VIS of a VIS:carries_writing
+msgid "carries_writing"
+msgstr "Legenda, Znaki i napisy na typariuszu"
+
+#. Property label for CIDOC of a CIDOC:P41_classified
+msgid "classified"
+msgstr "Kategoria dysponenta"
+
+#. Property label for VIS of a VIS:describes
+msgid "describes"
+msgstr "Opis pieczęci w publikacji"
+
+#. Property label for VIS of a VIS:destroying
+msgid "destroying"
+msgstr "Stan zachowania, Czytelność kopii"
+
+#. Property label for CIDOC of a CIDOC:P70_documents
+#. Property label for RIC of a RIC:documents
+msgid "documents"
+msgstr "Komentarz wydawcy, Opis typariusza"
+
+#. Property label for CIDOC of a CIDOC:P11_had_participant
+msgid "had participant"
+msgstr "Opis"
+
+#. Property label for CIDOC of a CIDOC:P94_has_created
+msgid "has created"
+msgstr "Datacja odcisku, Datacja"
+
+#. Property label for CIDOC of a CIDOC:P55_has_current_location
+msgid "has current location"
+msgstr "Sygnatura"
+
+#. Property label for CIDOC of a CIDOC:P49_has_former_or_current_keeper
+msgid "has former or current keeper"
+msgstr "Miejsce/miejsca przechowywania oryginału"
+
+#. Property label for CIDOC of a CIDOC:P72_has_language
+msgid "has language"
+msgstr "Język legendy, Język inskrypcji"
+
+#. Property label for CIDOC of a CIDOC:P31_has_modified
+msgid "has modified"
+msgstr "Poprawki/modyfikacje"
+
+#. Property label for CIDOC of a CIDOC:P3_has_note
+msgid "has note"
+msgstr "Uwagi"
+
+#. Property label for CIDOC of a CIDOC:P48_has_preferred_identifier
+msgid "has preferred identifier"
+msgstr "Identyfikator rekordu"
+
+#. Property label for CIDOC of a CIDOC:P108_has_produced
+msgid "has produced"
+msgstr "Modelowanie danych"
+
+#. Property label for CIDOC of a CIDOC:P4_has_time-span
+msgid "has time-span"
+msgstr "Chronologia występowania, Daty używania wskazane w publikacji, Daty aktywności, Chronologia używania typariusza"
+
+#. Property label for CIDOC of a CIDOC:P2_has_type
+msgid "has type"
+msgstr "Rodzaj typariusza"
+
+#. Property label for VIS of a VIS:has_competence
+msgid "has_competence"
+msgstr "Rodzaj kancelaryjny pieczęci"
+
+#. Property label for VIS of a VIS:has_dimension
+msgid "has_dimension"
+msgstr "Wymiary, Wymiary typariusza"
+
+#. Property label for VIS of a VIS:has_physical_feature
+msgid "has_physical_feature"
+msgstr "Barwa odcisku, Rodzaj kopii"
+
+#. Property label for VIS of a VIS:has_shape
+msgid "has_shape"
+msgstr "Kształt"
+
+#. Property label for CIDOC of a CIDOC:P148i_is_component_of
+msgid "is component of"
+msgstr "Charakter odcisku"
+
+#. Property label for CIDOC of a CIDOC:P46_is_composed_of
+#. Property label for CIDOC of a CIDOC:P106_is_composed_of
+msgid "is composed of"
+msgstr "Stopień złożoności odcisku, Stopień złożoności typariusza"
+
+#. Property label for CIDOC of a CIDOC:P1_is_identified_by
+msgid "is identified by"
+msgstr "Nazwa wzorca pieczęci, Nazwa"
+
+#. Property label for VIS of a VIS:consists_of
+msgid "is made from"
+msgstr "Materiał odcisku, Materiał wykonania, Materiał z którego wykonano kopię"
+
+#. Property label for VIS of a VIS:is_described_by
+msgid "is_described_by"
+msgstr "Publikacje, Autor i miejsce publikacji, Bibliografia"
+
+#. Property label for VIS of a VIS:materializes
+msgid "materializes"
+msgstr "Jest reprezentowany przez pozycje"
+
+#. Property label for CIDOC of a CIDOC:P67_refers_to
+msgid "refers to"
+msgstr "Rodzaj obiektu"
+
+#. Property label for CIDOC of a CIDOC:P138_represents
+#. Property label for VIS of a VIS:represents
+msgid "represents"
+msgstr "Typ ikonograficzny"
+
+#. Property label for CIDOC of a CIDOC:P8_took_place_on_or_within
+msgid "took place on or within"
+msgstr "Zakres terytorialny"
+
+#. Property label for VIS of a VIS:use_as_matrix
+msgid "use_as_matrix"
+msgstr "Jest matrycą wzorca pieczęci"
+
+#. Property label for CIDOC of a CIDOC:P33_used_specific_technique
+msgid "used specific technique"
+msgstr "Technika rytowania"
+
+#. Property label for CIDOC of a CIDOC:E1_CRM_Entity
+msgid "CRM Entity"
+msgstr "Encja CRM"
