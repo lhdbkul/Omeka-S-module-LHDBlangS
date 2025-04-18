@@ -174,3 +174,13 @@ msgstr "Technika rytowania"
 #. Property label for CIDOC of a CIDOC:E1_CRM_Entity
 msgid "CRM Entity"
 msgstr "Encja CRM"
+
+#: application/view/omeka/site/item-set/search.phtml:6
+msgid "Advanced item set Search"
+msgstr "Wyszukiwanie zaawansowane wzorców pieczęci (typów)"
+
+#: application/view/common/cross-site-search/item-results.phtml:3
+#: application/view/omeka/search/items-advanced.phtml:2
+#: application/view/omeka/site/item/search.phtml:6
+msgid "Advanced item search"
+msgstr "Wyszukiwanie zaawansowane dysponentów, publikacji, odcisków i kopii trójwymiarowych"
