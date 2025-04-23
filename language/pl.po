@@ -12,14 +12,13 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: <lhdb@kul.pl>\n"
 "POT-Creation-Date: 2025-03-23 12:00+0100\n"
-"PO-Revision-Date: 2025-04-16 09:31+0200\n"
+"PO-Revision-Date: 2025-04-23 12:00+0100\n"
 "Last-Translator: Łukasz Poznański <lpoznanski@lhdb.kul.pl>, 2025\n"
 "Language-Team: \n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.5\n"
 
 #. Property label for CIDOC of a CIDOC:P111_added
 msgid "added"
@@ -175,6 +174,16 @@ msgstr "Technika rytowania"
 #. Property label for CIDOC of a CIDOC:E1_CRM_Entity
 msgid "CRM Entity"
 msgstr "Encja CRM"
+
+#: application/view/omeka/site/item-set/search.phtml:6
+msgid "Advanced item set Search"
+msgstr "Wyszukiwanie zaawansowane wzorców pieczęci (typów)"
+
+#: application/view/common/cross-site-search/item-results.phtml:3
+#: application/view/omeka/search/items-advanced.phtml:2
+#: application/view/omeka/site/item/search.phtml:6
+msgid "Advanced item search"
+msgstr "Wyszukiwanie zaawansowane dysponentów, publikacji, odcisków i kopii trójwymiarowych"
 
 #: application/view/common/block-layout/item-with-metadata.phtml:19
 #: application/view/common/cross-site-search/results.phtml:70
