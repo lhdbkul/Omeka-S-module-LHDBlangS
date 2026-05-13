@@ -1,0 +1,206 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# Translators:
+# Paweł Gil <pawelgil@kul.pl>, 2026
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: <lhdb@kul.pl>\n"
+"POT-Creation-Date: 2026-03-26 12:00+0100\n"
+"PO-Revision-Date: 2026-03-26 11:28+0100\n"
+"Last-Translator: Paweł Gil <pgil@kul.pl>, 2026\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Property label for CIDOC of a CIDOC:P111_added
+msgid "added"
+msgstr "Description author"
+
+#. Property label for VIS of a VIS:attaching_with
+msgid "attaching_with"
+msgstr "Type of fastening"
+
+#. Property label for CIDOC of a CIDOC:P82a_begin_of_the_begin
+msgid "begin of the begin"
+msgstr "Chronology of the seal pattern by century"
+
+#. Property label for VIS of a VIS:brings_into_existence
+msgid "brings_into_existence"
+msgstr "Issuer’s name"
+
+#. Property label for CIDOC of a CIDOC:P92_brought_into_existence
+msgid "brought into existence"
+msgstr "Publisher"
+
+#. Property label for VIS of a VIS:carries_image
+msgid "carries_image"
+msgstr "Impressed image on the seal"
+
+#. Property label for VIS of a VIS:carries_writing
+msgid "carries_writing"
+msgstr "Legend, signs and inscriptions on the matrix"
+
+#. Property label for CIDOC of a CIDOC:P41_classified
+msgid "classified"
+msgstr "Type of issuer"
+
+#. Property label for VIS of a VIS:describes
+msgid "describes"
+msgstr "Seal description in the publication"
+
+#. Property label for VIS of a VIS:destroying
+msgid "destroying"
+msgstr "State of preservation, Legibility of the copy"
+
+#. Property label for CIDOC of a CIDOC:P70_documents
+#. Property label for RIC of a RIC:documents
+msgid "documents"
+msgstr "Publisher’s commentary, Description of the matrix"
+
+#. Property label for CIDOC of a CIDOC:P11_had_participant
+msgid "had participant"
+msgstr "Description"
+
+#. Property label for CIDOC of a CIDOC:P94_has_created
+msgid "has created"
+msgstr "Impression dating, Dating"
+
+#. Property label for CIDOC of a CIDOC:P55_has_current_location
+msgid "has current location"
+msgstr "Reference number"
+
+#. Property label for CIDOC of a CIDOC:P49_has_former_or_current_keeper
+msgid "has former or current keeper"
+msgstr "Place/places where the original is kept"
+
+#. Property label for CIDOC of a CIDOC:P72_has_language
+msgid "has language"
+msgstr "Language of the legend, Language of the inscription"
+
+#. Property label for CIDOC of a CIDOC:P31_has_modified
+msgid "has modified"
+msgstr "Corrections/modifications"
+
+#. Property label for CIDOC of a CIDOC:P3_has_note
+msgid "has note"
+msgstr "Notes"
+
+#. Property label for CIDOC of a CIDOC:P48_has_preferred_identifier
+msgid "has preferred identifier"
+msgstr "Record identifier"
+
+#. Property label for CIDOC of a CIDOC:P108_has_produced
+msgid "has produced"
+msgstr "Data modelling"
+
+#. Property label for CIDOC of a CIDOC:P4_has_time-span
+msgid "has time-span"
+msgstr "Chronology of occurrence, Dates of use given in the publication, Dates of activity, Chronology of matrix use"
+
+#. Property label for CIDOC of a CIDOC:P2_has_type
+msgid "has type"
+msgstr "Type of matrix"
+
+#. Property label for VIS of a VIS:has_competence
+msgid "has_competence"
+msgstr "Chancery type of seal"
+
+#. Property label for VIS of a VIS:has_dimension
+msgid "has_dimension"
+msgstr "Dimensions, Matrix dimensions"
+
+#. Property label for VIS of a VIS:has_physical_feature
+msgid "has_physical_feature"
+msgstr "Colour of the impression, Type of copy"
+
+#. Property label for VIS of a VIS:has_shape
+msgid "has_shape"
+msgstr "Shape"
+
+#. Property label for CIDOC of a CIDOC:P148i_is_component_of
+msgid "is component of"
+msgstr "Character of the impression"
+
+#. Property label for CIDOC of a CIDOC:P46_is_composed_of
+#. Property label for CIDOC of a CIDOC:P106_is_composed_of
+msgid "is composed of"
+msgstr "Degree of complexity of the impression, Degree of complexity of the matrix"
+
+#. Property label for CIDOC of a CIDOC:P1_is_identified_by
+msgid "is identified by"
+msgstr "Name of the seal pattern, Name"
+
+#. Property label for VIS of a VIS:consists_of
+msgid "is made from"
+msgstr "Material of the impression, Material of manufacture, Material from which the copy was made"
+
+#. Property label for VIS of a VIS:is_described_by
+msgid "is_described_by"
+msgstr "Publications, Author and place of publication, Bibliography"
+
+#. Property label for VIS of a VIS:materializes
+msgid "materializes"
+msgstr "Is represented by items"
+
+#. Property label for CIDOC of a CIDOC:P67_refers_to
+msgid "refers to"
+msgstr "Type of object"
+
+#. Property label for CIDOC of a CIDOC:P138_represents
+#. Property label for VIS of a VIS:represents
+msgid "represents"
+msgstr "Iconographic type"
+
+#. Property label for CIDOC of a CIDOC:P8_took_place_on_or_within
+msgid "took place on or within"
+msgstr "Territorial scope"
+
+#. Property label for VIS of a VIS:use_as_matrix
+msgid "use_as_matrix"
+msgstr "Is a matrix of a seal pattern"
+
+#. Property label for CIDOC of a CIDOC:P33_used_specific_technique
+msgid "used specific technique"
+msgstr "Engraving technique"
+
+#. Property label for CIDOC of a CIDOC:E1_CRM_Entity
+msgid "CRM Entity"
+msgstr "CRM Entity"
+
+#: application/view/omeka/site/item-set/search.phtml:6
+msgid "Advanced item set Search"
+msgstr "Advanced seal pattern (type) search"
+
+#: application/view/common/cross-site-search/item-results.phtml:3
+#: application/view/omeka/search/items-advanced.phtml:2
+#: application/view/omeka/site/item/search.phtml:6
+msgid "Advanced item search"
+msgstr "Advanced search of issuers, publications, impressions and 3D copies"
+
+#: application/view/common/block-layout/item-with-metadata.phtml:19
+#: application/view/common/cross-site-search/results.phtml:70
+#: application/view/common/data-type/resource.phtml:30
+#: application/view/common/item-set-selector.phtml:11
+#: application/view/common/resource-page-block-layout/item-sets.phtml:9
+#: application/view/layout/layout-admin.phtml:72
+#: application/view/omeka/admin/item-set/add.phtml:6
+#: application/view/omeka/admin/item-set/browse.phtml:7
+#: application/view/omeka/admin/item-set/edit.phtml:14
+#: application/view/omeka/admin/item-set/search.phtml:5
+#: application/view/omeka/admin/item-set/show.phtml:26
+#: application/view/omeka/admin/item/form.phtml:16
+#: application/view/omeka/admin/item/show-details.phtml:23
+#: application/view/omeka/admin/item/show.phtml:67
+#: application/view/omeka/admin/user/show-details.phtml:17
+#: application/view/omeka/site-admin/index/resources.phtml:23
+#: application/view/omeka/site/item-set/browse.phtml:13
+msgid "Item sets"
+msgstr "Seal patterns (types)"
